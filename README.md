@@ -7,4 +7,5 @@ or [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tam
 
 - Select a script from this list, then click **Install this script**, then click **Install**:
 
-  - [VirginAtlantic](https://greasyfork.org/en/scripts/450250-restore-virgin-atlantic-monthly-low-fare-calendar): Restore the now-hidden month-long view of lowest fares on virginatlantic.com
+  //- [VirginAtlantic](https://greasyfork.org/en/scripts/450250-restore-virgin-atlantic-monthly-low-fare-calendar): Restore the now-hidden month-long view of lowest fares on virginatlantic.com
+  - <a href="https://greasyfork.org/en/scripts/450250-restore-virgin-atlantic-monthly-low-fare-calendar" target="_blank">VirginAtlantic</a>: Restore the now-hidden month-long view of lowest fares on virginatlantic.com
