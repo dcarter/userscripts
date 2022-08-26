@@ -5,7 +5,7 @@
 // @description  Restore the now-hidden month-long view of lowest fares on virginatlantic.com
 // @author       David Carter
 // @match        *://www.virginatlantic.com/flight-search/flexible-dates?*
-// @license MIT
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
